@@ -1,2 +1,4 @@
 # Finite-Difference-Approximations-to-the-Heat-Equation
-Read more about "Finite-Difference Approximations to the Heat Equation" here :
+You can read more about "Finite-Difference Approximations to the Heat Equation" algorithm on attached PDF file.
+
+Implementation in python using numpy library.
